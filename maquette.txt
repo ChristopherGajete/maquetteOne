@@ -1,0 +1,7 @@
+Dans le body, on a déclaré trois couleurs utilisées de façon récurrente par la page comme des variables de la page afin de ne pas avoir à répéter le code couleur et qui sont appelées par var().
+
+Afin de faciliter la navigation dans le code, le fichier html est sectionné en un header, un main et un footer; dans le main, on a utilisé section puis article comme subdivisions supplémentaire.
+
+A travers le fichier, on a fait un usage récurrent du display flex pour faciliter l'agencement des divs en colonne ou en ligne selon le besoin, d'où parfois la création de divs dont le seul but est de contenir afin d'agencer. 
+Dans la section dédiée aux liens dans la revue de presse et dans la barre de navigation du footer, on a utilisé un display grid pour gérer l'espace dédié à chaque élément. 
+
